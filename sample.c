@@ -2,6 +2,7 @@
 int main()
 {
 printf("hello world");
+printf("Second version");
 return 0;
 }
 
